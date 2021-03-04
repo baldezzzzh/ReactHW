@@ -11,7 +11,7 @@ img {
     border-radius: 50%;
     object-fit: cover;
     display: block;
-    margin-right: 25px;
+    margin-right: 15px;
 }
 
 .message_body {
@@ -28,7 +28,8 @@ img {
     border: 10px solid transparent;
     border-right: 10px solid #4D547A;
     border-bottom: 10px solid #4D547A;
-    left: -12px;
+    left: -8px;
+    z-index: -1;
     bottom: 0px;
 }
 
